@@ -1,0 +1,11 @@
+Customer_id,Customer_name,Date_of_birth,Gender,Country_id,Customer_segment,Join_date,Annual_income,Employment_staus
+1001,Sarah Martin,1988-04-12,Female,1,Affluent,2021-06-15,65000.0,Employed
+1002,Daniel Weber,1979-09-23,Male,2,Premium,2019-03-10,105000.0,Employed
+1003,Elena Rossi,1992-01-17,Female,3,Mass Market,2023-08-21,42000.0,Employed
+1004,Thomas Garcia,1985-11-05,Male,4,Affluent,2020-01-30,72000.0,Self-Employed
+1005,Sophie de Vries,1990-07-28,Female,5,Premium,2018-11-12,118000.0,Employed
+1006,Marco Bianchi,1965-02-14,Male,3,Affluent,2017-05-19,68000.0,Self-Employed
+1007,Anna Muller,1958-12-03,Female,2,Mass Market,2016-09-07,39000.0,Retired
+1008,Lucas Dupont,1996-06-25,Male,1,Mass Market,2024-02-18,36000.0,Employed
+1009,Isabella Costa,1982-10-11,Female,3,Premium,2019-07-04,95000.0,Self-Employed
+1010,James Wilson,1975-03-30,Male,4,Affluent,2022-04-25,61000.0,Employed
